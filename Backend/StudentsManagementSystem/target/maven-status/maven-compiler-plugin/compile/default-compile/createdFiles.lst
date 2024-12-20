@@ -1,0 +1,5 @@
+com\girish\StudentsManager\StudentsManagementSystem\StudentsManagementSystemApplication.class
+com\girish\StudentsManager\StudentsManagementSystem\repository\StudentRepository.class
+com\girish\StudentsManager\StudentsManagementSystem\service\StudentService.class
+com\girish\StudentsManager\StudentsManagementSystem\model\Student.class
+com\girish\StudentsManager\StudentsManagementSystem\service\IStudentService.class
